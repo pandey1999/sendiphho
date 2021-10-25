@@ -1,0 +1,15 @@
+.chatsView
+{
+    position:relative;
+
+}
+.chatsView >img{
+    cursor: pointer;
+}
+.chatsView_timer
+{ position:absolute;
+    top:0;
+    right: 0;
+    margin: 10px;
+
+}

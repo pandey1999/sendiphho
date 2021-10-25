@@ -1,0 +1,29 @@
+.app
+{
+    display: flex;
+    align-items: center;
+    background-color:#fefc01;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+
+}
+.login_src
+{
+    object-fit: contain;
+    height: 100px;
+}
+.app_body
+{
+    background:url("https://www.pngkey.com/png/full/859-8598072_picture-freeuse-library-silhouette-mobile-at-getdrawing-cell.png")
+    no-repeat center;
+    background-size: contain;
+    height: 400px;
+    width:250px;
+    padding:74px;
+}
+.appbody_background
+{
+    background-color: white;
+    height:400px;
+}
